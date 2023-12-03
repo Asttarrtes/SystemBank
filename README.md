@@ -25,7 +25,7 @@ Este proyecto consiste en la implementación de un sistema de cajero automático
 
 1. Clona el repositorio a tu máquina local.
    ```bash
-   git clone https://github.com/tu_usuario/cajero-automatico-java.git
+   git clone https://github.com/Asttarrtes/SystemBank.git
    ```
 
 2. Abre el proyecto en tu entorno de desarrollo Java preferido.
